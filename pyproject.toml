@@ -6,6 +6,9 @@ authors = ["Frank Pinto <fapb88ve@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+google-api-python-client = "^2.53.0"
+google-auth-httplib2 = "^0.1.0"
+google-auth-oauthlib = "^0.5.2"
 
 [tool.poetry.dev-dependencies]
 
